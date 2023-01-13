@@ -5,9 +5,9 @@ Sobre mim:
 
 - 🔭 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFRS Canoas | 2° Semestre  <br>
      Técnico de Infomática - SENAC Gravataí | Mar/2022 - Out/2023
-     
+     <br>
 - 🌱 Estudando Engenharia de Dados
-
+     <br>
 - 🪐 Estagiando na Uol Compass <br>
 
 <div> 
