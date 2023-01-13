@@ -3,7 +3,7 @@ Meu nome é Nicoly Régia, sou estudante de T.I e entusiasta de Ciência de Dado
 
 Sobre mim:
 
-- 🔭 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFRS Canoas | 2° Semestre  <br>
+- 📚 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFRS Canoas | 2° Semestre  <br>
      Técnico de Infomática - SENAC Gravataí | Mar/2022 - Out/2023
      <br>
 - 🌱 Estudando Engenharia de Dados
