@@ -11,4 +11,4 @@ Sobre mim:
 - 🪐 Estagiando na Uol Compass <br>
 
 
-![snake](https://github.com/nivkr/nivkr/blob/output/github-contribution-grid-snake.gif)
+![snake](https://github.com/nivkr/nivkr/blob/output/github-contribution-grid-snake.svg)
