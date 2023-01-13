@@ -1,4 +1,5 @@
-### Olá, Eu sou a Nicoly Régia
+### Olá, Bem Vindo ao meu perfil no GitHub
+Meu nome é Nicoly Régia, e meu nickname é nivkr
 
 Sobre mim:
 
