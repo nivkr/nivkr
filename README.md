@@ -15,3 +15,4 @@ Sobre mim:
   
 </div>
 
+![snake.gif](https://github.com/nivkr/nivkr/blob/output/github-contribution-grid-snake.svg)
