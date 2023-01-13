@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-- 🔭 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFRS Canoas | 2° Semestre
+- 🔭 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFRS Canoas | 2° Semestre  <br>
      Técnico de Infomática - SENAC Gravataí | Mar/2022 - Out/2023
      
 - 🌱 Estudando Engenharia de Dados
