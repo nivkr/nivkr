@@ -10,6 +10,8 @@ Sobre mim:
      <br>
 - 🪐 Estagiando na Uol Compass <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivkr&show_icons=true&theme=radical)
+
 ![snake](https://github.com/nivkr/nivkr/blob/output/github-contribution-grid-snake.svg)
 
 <h1>Contato</h1>
@@ -20,4 +22,6 @@ Sobre mim:
 </div>
 <br>
 <br>
+
+
 <img src="https://github.com/nivkr/nivkr/blob/main/ITqR.gif" width="5000px"/>
