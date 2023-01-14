@@ -19,5 +19,5 @@ Sobre mim:
     <a href="https://github.com/nivkr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 <br>
-
-![gif](https://github.com/nivkr/nivkr/blob/main/ITqR.gif)
+<br>
+<img src="https://github.com/nivkr/nivkr/blob/main/ITqR.gif" width="5000px"/>
