@@ -10,6 +10,12 @@ Sobre mim:
      <br>
 - 🪐 Estagiando na Uol Compass <br>
 
+<div align="center">
+  <a href="https://github.com/LeonardoTeixeira23">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nivkr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nivkr&layout=compact&langs_count=8&theme=radical&count_private=true"/>
+</div>
+
 ![snake](https://github.com/nivkr/nivkr/blob/output/github-contribution-grid-snake.svg)
 
 <h1>Contato</h1>
