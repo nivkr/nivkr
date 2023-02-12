@@ -10,10 +10,10 @@ Sobre mim:
      <br>
 - 🪐 Estagiando na Uol Compass <br>
 
-<div align="center">
-  <a href="https://github.com/LeonardoTeixeira23">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nivkr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="25%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nivkr&layout=compact&langs_count=8&theme=radical&count_private=true"/>
+<div align="center" height="100%" width="100%">
+  <a href="https://github.com/nivkr">
+  <img height="200px" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nivkr&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+  <!- <img height="200px" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nivkr&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"/> 
 </div>
 
 ![snake](https://github.com/nivkr/nivkr/blob/output/github-contribution-grid-snake.svg)
