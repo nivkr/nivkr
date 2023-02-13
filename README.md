@@ -29,4 +29,4 @@ Sobre mim:
 <br>
 
 
-<img src="https://github.com/nivkr/nivkr/blob/main/ITqR.gif" width="5000px"/>
+<img src="https://github.com/nivkr/nivkr/blob/main/ITqR.gif" width="100%"/>
