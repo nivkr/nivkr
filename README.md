@@ -12,9 +12,10 @@ Sobre mim:
 
 <div align="center">
   <a href="https://github.com/nivkr">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nivkr&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-  <!- <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nivkr&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"/> 
+  <img width="45%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nivkr&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nivkr&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"/> 
 </div>
+<!-- &layout=compact -->
 
 ![snake](https://github.com/nivkr/nivkr/blob/output/github-contribution-grid-snake.svg)
 
