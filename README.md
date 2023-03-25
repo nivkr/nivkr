@@ -1,5 +1,5 @@
 ### Olá, Bem Vindo ao meu perfil no GitHub
-Meu nome é Nicoly Régia, sou estudante de T.I e entusiasta de Ciência de Dados.
+Meu nome é Nicoly Régia tenho 22 anos, sou estudante de T.I e entusiasta de Ciência de Dados.
 
 Sobre mim:
 
