@@ -9,6 +9,10 @@ Sobre mim:
 - 🌱 Estudando Engenharia de Dados
      <br>
 - 🪐 Estagiando na Uol Compass <br>
+- 📜 [Meu Curriculo](https://github.com/nivkr/nivkr/blob/main/CV_Nicoly_Regia.pdf)
+
+<br>
+
 
 <div align="center">
   <a href="https://github.com/nivkr">
